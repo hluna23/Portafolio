@@ -1,4 +1,4 @@
-# Portafolio de [Tu Nombre]
+# Portafolio de Henry Luna
 
 Bienvenido a mi portafolio en línea, donde puedes explorar mis habilidades, experiencia de trabajo y proyectos en desarrollo web y edición de video.
 
@@ -31,7 +31,7 @@ Si deseas ejecutar este proyecto localmente en tu máquina, sigue estos pasos:
 
 ## Contacto
 
-Si deseas ponerse en contacto conmigo, puedes hacerlo a través de [tu@email.com] o a través de mis perfiles en redes sociales.
+Si deseas ponerse en contacto conmigo, puedes hacerlo a través de henrybernabelunacriales@gmail.com o a través de mis perfiles en redes sociales.
 
 ¡Espero que disfrutes explorando mi portafolio!
 
